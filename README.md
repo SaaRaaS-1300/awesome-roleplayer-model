@@ -32,6 +32,20 @@
 
 </div>
 
+## 🖋️ **Work Borad**
+
+***For the Technical Paper in Arxiv - Xxxx***
+
++ *Abstract* 
+    + About 
++ *Introduction*
+    + Discuss the Xxxx
+        + Analysis the Xxxx
+    + Evaluate the Xxxx
++ *Related Work*
+    + Discuss the Xxxx
+    + Especially Refer the Xxxx
++ *And So on*
 
 
 ## 💡 **Contribution**
@@ -40,7 +54,7 @@
 
 ### **Contributing to this repo**
 
-🤗" **Join us in improving this repository!** 
+🤗 **"Join us in improving this repository!"** 
 + *Add more detailed documentation*
 + *And So on...*
 
