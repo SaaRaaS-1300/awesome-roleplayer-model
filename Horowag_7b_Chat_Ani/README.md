@@ -4,6 +4,6 @@
 
 <div align="center">
   <audio controls style="width: 500px; height: 100px;">
-    <source src="https://github.com/username/repo/blob/main/audio/my-audio.mp3?raw=true" type="audio/mpeg">
+    <source src="https://github.com/SaaRaaS-1300/awesome-roleplayer-model/blob/main/Horowag_7b_Chat_Ani/src/sound.wav?raw=true" type="audio/mpeg">
   </audio>
 </div>
