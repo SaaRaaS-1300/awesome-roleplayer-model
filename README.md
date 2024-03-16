@@ -24,11 +24,11 @@
 
 <div align="center">
 
-|<div style="width: 125pt">***项目名称***</div>|<div style="width: 125pt">***主题***</div>|<div style="width: 125pt">***链接***</div>|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***项目名称***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***主题***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***链接***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:---:|:---:|:---:|
-|<div style="width: 125pt">***text***</div>| <div style="width: 125pt">*** text***</div>|<div style="width: 100pt">[💙**Repo Link**💙](https://github.com/GuoYiFantastic/IMelodist)</div>|
-|<div style="width: 125pt">***Chatty-Horo***</div>|<div style="width: 125pt">***基于 Xtuner 框架微调赫萝角色扮演语言模型***</div>|<div style="width: 125pt">[🍏**Repo Link**🍎](https://github.com/SaaRaaS-1300/InternLM_openNotebook)</div>|
-|<div style="width: 125pt">***Chatty-Horo***</div>|<div style="width: 125pt">***基于 Xtuner 框架微调赫萝角色扮演语言模型***</div>|<div style="width: 125pt">[🍏**Repo Link**🍎](https://github.com/SaaRaaS-1300/InternLM_openNotebook)</div>|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***text***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*** text***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[💙**Repo Link**💙](https://github.com/GuoYiFantastic/IMelodist)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Chatty-Horo***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***基于 Xtuner 框架微调赫萝角色扮演语言模型***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🍏**Repo Link**🍎](https://github.com/SaaRaaS-1300/InternLM_openNotebook)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Chatty-Horo***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***基于 Xtuner 框架微调赫萝角色扮演语言模型***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🍏**Repo Link**🍎](https://github.com/SaaRaaS-1300/InternLM_openNotebook)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
 </div>
 
