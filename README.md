@@ -27,8 +27,8 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***项目名称***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***主题***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***链接***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:---:|:---:|:---:|
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***IMelodist***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***基于 `InternLM2基座` 训练的音乐家角色模型***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[💙**Repo Link**💙](https://github.com/GuoYiFantastic/IMelodist)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Chatty-Horo***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***基于 `InternLM社区链条` 构建的赫萝角色扮演模型***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🍏**Repo Link**🍎](https://github.com/SaaRaaS-1300/InternLM_openNotebook)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Roleplay-with-XiYou***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***基于 `西游记相关数据` 微调小说人物模型***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🍏**Repo Link**🍎](https://github.com/JimmyMa99/Roleplay-with-XiYou)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***[Chatty-Horo]()***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***基于 `InternLM社区链条` 构建的赫萝角色扮演模型***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🍏**Repo Link**🍎](https://github.com/SaaRaaS-1300/InternLM_openNotebook)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Roleplay-with-XiYou***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***基于 `西游记相关数据` 微调小说人物模型***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🐷**Repo Link**🐷](https://github.com/JimmyMa99/Roleplay-with-XiYou)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
 </div>
 
@@ -36,7 +36,7 @@
 
 ## 💡 **Contribution**
 
-![alt text](605962336394359965.jpg)
+![alt text](image/img-2.jpg)
 
 ### **Contributing to this repo**
 
