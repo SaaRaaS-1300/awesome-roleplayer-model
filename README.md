@@ -1,4 +1,4 @@
-![alt text](image/img-1.gif)
+![alt text](Image/img-1.gif)
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 ## 🍎 **News**
 
-+ 🥯**2024-03-06 We create this repository to maintain the repositories about *LLMs Roleplay* .**
++ 🥯**2024-03-06 WI create this repository to maintain the repositories about *LLMs Roleplay* .**
 + 🥯**2024-03-07 尖米(Jimmy) improved the repository and added relevant information.**
 + 🥯**2024-03-16 那路(SaaRaaS) created a dynamic banner logo and built a table.**
 + 🥯**2024-03-17 那路(SaaRaaS) included three models for collection.**
@@ -51,7 +51,7 @@
 
 ## 💡 **Contribution**
 
-![alt text](image/img-2.jpg)
+![alt text](Image/img-2.jpg)
 
 ### **Contributing to this repo**
 
