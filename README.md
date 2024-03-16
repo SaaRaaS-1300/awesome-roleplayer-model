@@ -1,7 +1,14 @@
-# 🕶Awesome-Roleplayer-Model🕶
-🍿Every roleplayer has a seat at the table🍿
+![alt text](image/img-1.gif)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]()
+<div align="center">
+
+# 🕶**Awesome-Roleplayer-Model**🕶
+🍿***Every roleplayer has a seat at the table***🍿
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]() 
+
+</div>
+
 
 
 ## 🔔 News
