@@ -22,24 +22,15 @@
 
 ## 🎃 **Awsome Roleplay**
 
-<style>
-  th, td {
-    border: 5px solid black; /* Set border for all cells */
-    padding: 5px; /* Add some padding for better readability */
-    background-color: skyblue;
-  }
-</style>
+<div align="center">
 
-<tr>
-<td>
-
-| a | b | d |
+|<div style="width: 125pt">***项目名称***</div>|<div style="width: 125pt">***主题***</div>|<div style="width: 125pt">***链接***</div>|
 |:---:|:---:|:---:|
-| 背景色的设置是按照十六进制颜色值 | <div style="width: 150pt">very very very very very lonng long long long long text</div>| 3 |
+|<div style="width: 125pt">***text***</div>| <div style="width: 125pt">*** text***</div>|<div style="width: 100pt">[💙**Repo Link**💙](https://github.com/GuoYiFantastic/IMelodist)</div>|
+|<div style="width: 125pt">***Chatty-Horo***</div>|<div style="width: 125pt">***基于 Xtuner 框架微调赫萝角色扮演语言模型***</div>|<div style="width: 125pt">[🍏**Repo Link**🍎](https://github.com/SaaRaaS-1300/InternLM_openNotebook)</div>|
+|<div style="width: 125pt">***Chatty-Horo***</div>|<div style="width: 125pt">***基于 Xtuner 框架微调赫萝角色扮演语言模型***</div>|<div style="width: 125pt">[🍏**Repo Link**🍎](https://github.com/SaaRaaS-1300/InternLM_openNotebook)</div>|
 
-</td>
-</tr>
-
+</div>
 
 
 
