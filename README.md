@@ -32,7 +32,7 @@
 
 </div>
 
-## 🖋️ **Work Borad**
+## 🖋️ **Work Board**
 
 ***For the Technical Paper in Arxiv - Xxxx***
 
