@@ -40,7 +40,7 @@
     + About 
 + *Introduction*
     + Discuss the Xxxx
-        + Analysis the Xxxx
+        + Analyze the Xxxx
     + Evaluate the Xxxx
 + *Related Work*
     + Discuss the Xxxx
